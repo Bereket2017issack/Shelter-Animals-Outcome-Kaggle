@@ -5,4 +5,4 @@ Using a dataset of intake information including breed, color, sex, and age from 
 We also believe this dataset can help us understand trends in animal outcomes. These insights could help shelters focus their energy on specific animals who need a little extra help finding a new home. We encourage you to publish your insights on Scripts so they are publicly accessible.
 
 
-https://www.kaggle.com/berrywedi/fork-of-notebookbdb61bc784-7c74ad/editnb
+https://www.kaggle.com/berrywedi/notebookbdb61bc784
